@@ -7,7 +7,7 @@ Add the dependency
 
     dependencies {
         ...
-        implementation 'com.github.rakapermanaptr:Login-Warrior-SDK:4.1.3'
+        implementation 'com.github.rakapermanaptr:MyIndihomeOauth:0.0.2'
     }   
 
 Add it in your root build.gradle at the end of repositories:
