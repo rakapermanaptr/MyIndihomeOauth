@@ -13,6 +13,9 @@ buildscript {
     }
 }
 
+group = 'com.telkom.MyIndihomeOauth'
+version = '1.0'
+
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
